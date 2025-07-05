@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Justin Minnaar
 
-### Building tech that matters—for people who need it most.
+### Building tech that matters for people who need it most.
 
 With over 40 years of experience in software development, I’m passionate about solving real problems with meaningful code. Right now, I’m focused on transforming digital payments and financial tools across Africa to help people in rural communities safely market and sell their products online.
 

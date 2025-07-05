@@ -42,8 +42,8 @@ I share my thoughts on software engineering, artificial intelligence, and emergi
 
 ## 💡 Interests Outside Tech
 
-- 🧲 Physics enthusiast—especially interested in space-time and the nature of gravity (hint: it’s all about time dilation)
-- 🔭 Enjoy thinking about the universe almost as much as I enjoy building useful tech
+- 🧲 Physics: interested in space-time and the nature of gravity (hint: it’s all about time dilation)
+- 🔭 And I enjoy thinking about the universe almost as much as I enjoy building useful tech
 
 ---
 

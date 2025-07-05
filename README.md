@@ -36,7 +36,7 @@ I’m building a new startup focused on addressing the lack of safe, efficient f
 ## 🎙️ Check Out My YouTube
 
 I share my thoughts on software engineering, artificial intelligence, and emerging development tools:  
-👉 [Subscribe to my YouTube Channel](https://www.youtube.com/) *(Link placeholder—replace with your actual channel URL)*
+👉 [Subscribe to my YouTube Channel]([https://www.youtube.com/](https://www.youtube.com/@JustinMinnaar))
 
 ---
 

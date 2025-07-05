@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Justin Minnaar
 
-![Banner](./github-profile.png)
+![Banner](./github-banner.png)
 
 ### Building tech that matters for people who need it most.
 

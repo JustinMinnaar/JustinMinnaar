@@ -8,13 +8,13 @@ With over 40 years of experience in software development, I’m passionate about
 
 ## 🚀 About Me
 
-- 🧒 Started programming at age 10—still as curious and excited about tech as ever.
-- 🧠 Built my first neural net in 1992.
+- 🧒 Started programming at age 10 and still as curious and excited about tech as ever.
+- 🧠 Built my first neural net in 1992. It took three days to evaluate a single output.
 - 🏢 Listed my first company in 1998 and have helped launch over 10 software startups since.
-- ⚙️ Worked across military, corporate, banking, insurance, and startup sectors—building software and leading dev teams.
+- ⚙️ Worked across military, corporate, banking, insurance, and startup sectors, building software and leading dev teams.
 - 🧪 Spent 5 years mastering test automation after falling in love with it 15 years ago.
 - 🤖 Now integrating AI into development workflows and exploring new frontiers in software engineering.
-- 🌱 I’m currently learning to speak Dutch
+- 🌱 I’m currently learning to speak Dutch and trying to understand the space-time effects for gravity.
 
 ---
 
